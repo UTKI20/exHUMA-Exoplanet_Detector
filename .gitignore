@@ -38,3 +38,7 @@ rad.json
 #Test results file
 TestResults.xml
 *.csv
+
+# Exceptions for deployment
+!/antigravity_verified_shortlist.csv
+!/exoTest.csv
