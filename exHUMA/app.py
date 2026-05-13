@@ -205,7 +205,6 @@ st.markdown("---")
 
 # --- 3. SIDEBAR: CANDIDATE LEADERBOARD ---
 # Load Shortlist Data
-@st.cache_data
 def load_leaderboard():
     path = get_path("antigravity_verified_shortlist.csv", from_root=True)
     if os.path.exists(path):
