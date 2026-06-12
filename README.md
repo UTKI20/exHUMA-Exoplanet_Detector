@@ -113,8 +113,8 @@ exHUMA uses visual diagnostics to ensure astronomers can trust the AI's deductio
 **Why the model got it right:** A clear, deep U-shaped transit with a stable baseline. The heatmap activates precisely during the transit events.
 
 <div align="center">
-  <img src="outputs/phase_folded/star_1_phase_fold.png" width="45%" alt="Phase Fold">
-  <img src="outputs/xai_heatmaps/star_1_xai.png" width="45%" alt="XAI Heatmap">
+  <img src="exHUMA/outputs/phase_folded/star_1_phase_fold.png" width="45%" alt="Phase Fold">
+  <img src="exHUMA/outputs/xai_heatmaps/star_1_xai.png" width="45%" alt="XAI Heatmap">
 </div>
 </details>
 
@@ -125,8 +125,8 @@ exHUMA uses visual diagnostics to ensure astronomers can trust the AI's deductio
 **Why the model got it right:** High-frequency, short-period transit successfully separated from stellar noise via the FFT branch.
 
 <div align="center">
-  <img src="outputs/phase_folded/star_0_phase_fold.png" width="45%" alt="Phase Fold">
-  <img src="outputs/xai_heatmaps/star_0_xai.png" width="45%" alt="XAI Heatmap">
+  <img src="exHUMA/outputs/phase_folded/star_0_phase_fold.png" width="45%" alt="Phase Fold">
+  <img src="exHUMA/outputs/xai_heatmaps/star_0_xai.png" width="45%" alt="XAI Heatmap">
 </div>
 </details>
 
@@ -137,8 +137,8 @@ exHUMA uses visual diagnostics to ensure astronomers can trust the AI's deductio
 **Analysis:** Ranked #1 by the CNN. While currently unverified, the phase fold shows a compelling periodic signature. This is an ideal target for immediate follow-up.
 
 <div align="center">
-  <img src="outputs/phase_folded/star_230_phase_fold.png" width="45%" alt="Phase Fold">
-  <img src="outputs/xai_heatmaps/star_230_xai.png" width="45%" alt="XAI Heatmap">
+  <img src="exHUMA/outputs/phase_folded/star_230_phase_fold.png" width="45%" alt="Phase Fold">
+  <img src="exHUMA/outputs/xai_heatmaps/star_230_xai.png" width="45%" alt="XAI Heatmap">
 </div>
 </details>
 
@@ -149,8 +149,8 @@ exHUMA uses visual diagnostics to ensure astronomers can trust the AI's deductio
 **Current Limitations:** Star 3 represents an edge-case where extreme stellar variability masked the transit depth, causing the model's confidence to drop. This illustrates a future research direction for better robust detrending algorithms.
 
 <div align="center">
-  <img src="outputs/phase_folded/star_3_phase_fold.png" width="45%" alt="Phase Fold">
-  <img src="outputs/xai_heatmaps/star_3_xai.png" width="45%" alt="XAI Heatmap">
+  <img src="exHUMA/outputs/phase_folded/star_3_phase_fold.png" width="45%" alt="Phase Fold">
+  <img src="exHUMA/outputs/xai_heatmaps/star_3_xai.png" width="45%" alt="XAI Heatmap">
 </div>
 </details>
 
