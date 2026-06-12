@@ -239,6 +239,6 @@ exHUMA/
 
 <div align="center">
   <br>
-  <i>"exHUMA is designed as an AI-assisted scientific discovery system that prioritizes promising exoplanet candidates for human verification rather than replacing astronomers."</i>
+  <i>exHUMA is designed as an AI-assisted scientific discovery system that prioritizes promising exoplanet candidates for human verification rather than replacing astronomers.</i>
   <br><br>
 </div>
