@@ -1,0 +1,21 @@
+Rank,Star_Index,CNN_Probability,Status
+1,230,0.983697,Candidate
+2,1,0.967444,Confirmed Planet
+3,460,0.927676,Candidate
+4,485,0.91619,Candidate
+5,2,0.824697,Confirmed Planet
+6,368,0.775679,Candidate
+7,291,0.751131,Candidate
+8,246,0.7304,Candidate
+9,495,0.726881,Candidate
+10,0,0.699982,Confirmed Planet
+11,4,0.670878,Confirmed Planet
+12,319,0.661668,Candidate
+13,262,0.557189,Candidate
+14,417,0.546568,Candidate
+15,535,0.522806,Candidate
+16,415,0.521343,Candidate
+17,372,0.467236,Candidate
+18,339,0.444361,Candidate
+19,448,0.420834,Candidate
+20,400,0.418484,Candidate
